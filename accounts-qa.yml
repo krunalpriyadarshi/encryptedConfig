@@ -3,7 +3,7 @@ build:
 
 # contact-info
 accounts:
-  message:  "QAAAAAAAAAAAAAAaa about accounts API from GIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIT"
+  message:  "QAAAAAAAAAAAAAAaa about accounts API from git2"
   contactDetails:
     name: "Krunal"
     email: "k@qa.com"

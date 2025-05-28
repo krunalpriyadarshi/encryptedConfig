@@ -1,0 +1,12 @@
+build:
+  version: "1.0"
+
+# contact-info
+accounts:
+  message:  "information about accounts API"
+  contactDetails:
+    name: "Krunal"
+    email: "k@gmail.com"
+  onCallSupport:
+    - (416)880-2323
+    - (416)880-2323

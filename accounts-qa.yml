@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+# contact-info
+accounts:
+  message:  "QAAAAAAAAAAAAAAaa about accounts API"
+  contactDetails:
+    name: "Krunal"
+    email: "k@qa.com"
+  onCallSupport:
+    - (416)880-2323
+    - (416)880-2323

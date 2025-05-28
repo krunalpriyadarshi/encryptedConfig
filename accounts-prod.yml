@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+# contact-info
+accounts:
+  message:  "Proddddddddddddddddddddddddddddddd about accounts API"
+  contactDetails:
+    name: "Krunal"
+    email: "k@prod.com"
+  onCallSupport:
+    - (416)880-2323
+    - (416)880-2323

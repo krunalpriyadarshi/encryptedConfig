@@ -3,7 +3,7 @@ build:
 
 # contact-info
 accounts:
-  message:  "information about accounts API"
+  message:  "information about accounts API from github"
   contactDetails:
     name: "Krunal"
     email: "k@gmail.com"
